@@ -1,0 +1,11 @@
+{
+  "name": "discord-servant",
+  "version": "1.0.0",
+  "description": "Personal discord bot to automate things I'm tired of",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
